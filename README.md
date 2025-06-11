@@ -8,11 +8,37 @@ This space is for organizing our collaborative work, sharing resources, and trac
 - `docs/` – Reports, write-ups, and official documents
 - `resources/` – Reference files, assets, and media
 
-## 👥 Team Members
-- [Add full names and reg. numbers here]
+👥 Team Members – The NEXUS
+Samad [AP23110010747] – Team Lead
+
+Junaid [AP23110010681] – Front-End Developer
+
+Kiran [AP23110011126] – Back-End Developer
+
+Sasank [AP23110010092] – UI/UX Designer
+
+Madhan [AP23110011124] – Documentation Lead
+
 
 ## 🛠 Tech Stack
-- [Mention tools, languages, or platforms you're using]
+
+**Frontend:**
+- HTML5, CSS3, JavaScript
+- Bootstrap
+
+**Backend:**
+- PHP 
+- XAMPP / WAMP (Local development environment)
+
+**Database:**
+- MySQL
+- phpMyAdmin 
+
+**Tools:**
+- Git & GitHub
+- VS Code
+- Google Drive (Shared folder for docs)
+
 
 ## ✅ Guidelines
 - Commit with clear messages
