@@ -4,6 +4,7 @@ Welcome to the official GitHub repository for **The NEXUS** internship group.
 This space is for organizing our collaborative work, sharing resources, and tracking project progress.
 
 👥 Team Members – The NEXUS
+
 Samad [AP23110010747] – Team Lead
 
 Junaid [AP23110010681] – Front-End Developer
